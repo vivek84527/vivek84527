@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Vivek Kumar Singh
+
+### I’m currently working on Machine Learning Application and Web Development
 
 <!--
 **vivek84527/vivek84527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
